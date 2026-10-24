@@ -1,0 +1,30 @@
+name: Sync the rules pack from obligare.com
+
+# obligare.com/rules/us.json is the source of truth. Once a day (and on demand) this copies it here,
+# pretty-printed so each rule change shows as a readable diff, and commits only when something changed.
+on:
+  schedule:
+    - cron: "30 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Fetch the live pack
+        run: |
+          curl -sfL https://obligare.com/rules/us.json -o /tmp/us.json
+          jq . /tmp/us.json > rules/us.json
+      - name: Commit if it changed
+        run: |
+          if git diff --quiet; then echo "No change."; exit 0; fi
+          v=$(jq -r .version rules/us.json)
+          git config user.name "obligare-sync"
+          git config user.email "hello@obligare.com"
+          git add rules/us.json
+          git commit -m "Rules pack $v"
+          git push
