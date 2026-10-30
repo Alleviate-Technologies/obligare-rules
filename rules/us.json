@@ -1,7 +1,7 @@
 {
   "name": "Obligare US rules pack",
-  "version": "2026.10.5",
-  "published": "2026-10-28",
+  "version": "2026.10.6",
+  "published": "2026-10-30",
   "license": "CC BY 4.0. Free to use with attribution to Obligare (obligare.com).",
   "repository": "https://github.com/Alleviate-Technologies/obligare-rules",
   "url": "https://obligare.com/rules/us.json",
@@ -35,6 +35,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/federal-corporate-income-tax-return"
     },
@@ -67,6 +68,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/federal-s-corporation-return"
     },
@@ -99,6 +101,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/federal-partnership-return"
     },
@@ -132,6 +135,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/business-income-on-the-owners-personal-return"
     },
@@ -165,6 +169,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nonresident-owners-us-return-if-one-is-owed"
     },
@@ -204,6 +209,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/annual-electronic-notice-for-small-exempt-organizations"
     },
@@ -243,6 +249,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/short-annual-return-of-an-exempt-organization"
     },
@@ -282,6 +289,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/annual-return-of-an-exempt-organization"
     },
@@ -317,6 +325,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/annual-return-of-a-private-foundation"
     },
@@ -350,6 +359,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/exempt-organization-business-income-tax-return"
     },
@@ -383,6 +393,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/form-990-not-required-for-churches-nonprofit"
     },
@@ -416,6 +427,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/charitable-solicitation-registration-churches-are-exempt"
     },
@@ -453,6 +465,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/written-acknowledgments-to-donors"
     },
@@ -490,6 +503,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/corporate-estimated-tax-payment"
     },
@@ -540,6 +554,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/owners-estimated-tax-payments"
     },
@@ -590,6 +605,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/owners-estimated-tax-payment"
     },
@@ -620,6 +636,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/quarterly-federal-payroll-tax-return"
     },
@@ -652,6 +669,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/federal-payroll-tax-deposit"
     },
@@ -687,6 +705,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/annual-federal-unemployment-tax-return"
     },
@@ -725,6 +744,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/federal-unemployment-tax-deposit"
     },
@@ -755,6 +775,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/w-2-forms-to-employees-and-the-ssa"
     },
@@ -785,6 +806,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/1099-nec-forms-to-contractors-and-the-irs"
     },
@@ -815,6 +837,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/report-of-foreign-bank-and-financial-accounts"
     },
@@ -849,6 +872,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/information-return-of-a-foreign-owned-company"
     },
@@ -882,6 +906,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/partnership-withholding-on-foreign-partners"
     },
@@ -916,6 +941,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/information-return-on-a-foreign-company-the-company-owns-corporations"
     },
@@ -950,6 +976,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/information-return-on-a-foreign-company-the-company-owns-s-corporations-and-partnerships"
     },
@@ -980,6 +1007,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/withholding-returns-for-payments-to-foreign-persons"
     },
@@ -1010,6 +1038,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/annual-meeting-of-shareholders-and-directors-corporation"
     },
@@ -1040,6 +1069,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/annual-meeting-of-the-board-nonprofit"
     },
@@ -1070,6 +1100,7 @@
       "providerFiles": false,
       "handledBy": "plan",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/annual-retirement-plan-return"
     },
@@ -1100,6 +1131,7 @@
       "providerFiles": false,
       "handledBy": "plan",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/summary-annual-report-to-plan-participants"
     },
@@ -1130,6 +1162,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/health-coverage-statements-to-employees"
     },
@@ -1160,6 +1193,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/health-coverage-returns-to-the-irs"
     },
@@ -1190,6 +1224,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/post-the-osha-injury-and-illness-summary"
     },
@@ -1220,6 +1255,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/submit-injury-and-illness-data-to-osha"
     },
@@ -1251,6 +1287,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/eeo-1-workforce-demographics-report"
     },
@@ -1279,6 +1316,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-hire-reporting"
     },
@@ -1307,6 +1345,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/form-i-9-for-every-employee"
     },
@@ -1335,6 +1374,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/workers-compensation-insurance"
     },
@@ -1363,6 +1403,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/workplace-posters"
     },
@@ -1396,6 +1437,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/registered-agent-in-every-state-of-registration"
     },
@@ -1422,8 +1464,323 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/beneficial-ownership-report-not-required-for-us-formed-companies"
+    },
+    {
+      "id": "us.fed.990.ext",
+      "name": "Form 990, extended due date (if Form 8868 was filed)",
+      "jurisdiction": {
+        "country": "US",
+        "level": "federal"
+      },
+      "agency": "IRS",
+      "form": "Form 990",
+      "schedule": {
+        "kind": "fiscal",
+        "monthsAfterFYE": 11,
+        "day": 15
+      },
+      "roll": "irs",
+      "applies": {
+        "legalForms": [
+          "nonprofit"
+        ],
+        "receipts": [
+          "200k+"
+        ],
+        "notExemptTypes": [
+          "501c3-private",
+          "church"
+        ]
+      },
+      "severity": "high",
+      "action": "File Form 990 with its schedules by this date if Form 8868 was filed by the original one. The extension is automatic and gives six months to file; it does not move the original date for anything owed with the return.",
+      "fee": null,
+      "penalty": "$25 a day, up to the lesser of $13,000 or 5% of gross receipts ($130 a day up to $65,000 for organizations with gross receipts over $1,309,500); the figures are for returns filed in 2026 and are adjusted yearly; automatic loss of exemption after three missed years",
+      "source": "https://www.irs.gov/forms-pubs/about-form-8868",
+      "explanation": "Form 8868 gives an exempt organization an automatic six month extension to file its return, from the 15th day of the fifth month after the fiscal year to the 15th day of the eleventh: May 15 to November 15 for a calendar year. It is on the calendar as its own line because an organization that extended needs the later date in front of it, with reminders: it marks the original date as extended, which stops the reminders for that date and keeps this line. One that filed on time marks the original filed and the line goes. For an organization that extended, the daily penalty for a late return starts the day after this date. Form 990-N cannot be extended.",
+      "providerFiles": false,
+      "handledBy": "cpa",
+      "owner": false,
+      "extensionOf": "us.fed.990",
+      "lastRead": "2026-10-30",
+      "url": "https://obligare.com/obligations/form-990-extended-due-date"
+    },
+    {
+      "id": "us.fed.990ez.ext",
+      "name": "Form 990-EZ, extended due date (if Form 8868 was filed)",
+      "jurisdiction": {
+        "country": "US",
+        "level": "federal"
+      },
+      "agency": "IRS",
+      "form": "Form 990-EZ",
+      "schedule": {
+        "kind": "fiscal",
+        "monthsAfterFYE": 11,
+        "day": 15
+      },
+      "roll": "irs",
+      "applies": {
+        "legalForms": [
+          "nonprofit"
+        ],
+        "receipts": [
+          "50k-200k"
+        ],
+        "notExemptTypes": [
+          "501c3-private",
+          "church"
+        ]
+      },
+      "severity": "high",
+      "action": "File Form 990-EZ, with Schedule A for a public charity, by this date if Form 8868 was filed by the original one. The extension is automatic and gives six months to file.",
+      "fee": null,
+      "penalty": "$25 a day, up to the lesser of $13,000 or 5% of gross receipts (returns filed in 2026; adjusted yearly); automatic loss of exemption after three missed years",
+      "source": "https://www.irs.gov/forms-pubs/about-form-8868",
+      "explanation": "Form 8868 extends the short return six months, from the 15th day of the fifth month after the fiscal year to the 15th day of the eleventh: May 15 to November 15 for a calendar year. The line is on the calendar for an organization that extended; one that filed on time marks the original filed and it goes. For an organization that extended, the daily penalty for a late return starts the day after this date.",
+      "providerFiles": false,
+      "handledBy": "cpa",
+      "owner": false,
+      "extensionOf": "us.fed.990ez",
+      "lastRead": "2026-10-30",
+      "url": "https://obligare.com/obligations/form-990-ez-extended-due-date"
+    },
+    {
+      "id": "us.fed.990pf.ext",
+      "name": "Form 990-PF, extended due date (if Form 8868 was filed)",
+      "jurisdiction": {
+        "country": "US",
+        "level": "federal"
+      },
+      "agency": "IRS",
+      "form": "Form 990-PF",
+      "schedule": {
+        "kind": "fiscal",
+        "monthsAfterFYE": 11,
+        "day": 15
+      },
+      "roll": "irs",
+      "applies": {
+        "legalForms": [
+          "nonprofit"
+        ],
+        "exemptTypes": [
+          "501c3-private"
+        ]
+      },
+      "severity": "high",
+      "action": "File Form 990-PF by this date if Form 8868 was filed by the original one. The extension gives six months to file, not to pay: the excise tax on net investment income was due with the original date.",
+      "fee": null,
+      "penalty": "$25 a day, up to the lesser of $13,000 or 5% of gross receipts (returns filed in 2026; adjusted yearly); 5% a month on unpaid excise tax; automatic loss of exemption after three missed years",
+      "source": "https://www.irs.gov/forms-pubs/about-form-8868",
+      "explanation": "A private foundation's Form 8868 extends the return six months, to November 15 for a calendar year. The excise tax on net investment income is not extended: it was due on the original date, and a foundation that owes it pays with the extension request or owes interest from then. The line is on the calendar for a foundation that extended; one that filed on time marks the original filed and it goes.",
+      "providerFiles": false,
+      "handledBy": "cpa",
+      "owner": false,
+      "extensionOf": "us.fed.990pf",
+      "lastRead": "2026-10-30",
+      "url": "https://obligare.com/obligations/form-990-pf-extended-due-date"
+    },
+    {
+      "id": "us.fed.990t.ext",
+      "name": "Form 990-T, extended due date (if Form 8868 was filed)",
+      "jurisdiction": {
+        "country": "US",
+        "level": "federal"
+      },
+      "agency": "IRS",
+      "form": "Form 990-T",
+      "schedule": {
+        "kind": "fiscal",
+        "monthsAfterFYE": 11,
+        "day": 15
+      },
+      "roll": "irs",
+      "applies": {
+        "legalForms": [
+          "nonprofit"
+        ],
+        "unrelatedBusiness": true
+      },
+      "severity": "high",
+      "action": "File Form 990-T by this date if Form 8868 was filed by the original one. Six more months to file, not to pay: the tax on unrelated business income was due on the original date.",
+      "fee": null,
+      "penalty": "5% of the unpaid tax for each month late, up to 25%, plus interest",
+      "source": "https://www.irs.gov/forms-pubs/about-form-8868",
+      "explanation": "Form 8868 extends Form 990-T six months, to the 15th day of the eleventh month after the fiscal year. The tax on unrelated business income was due on the original date, so the extension is only more time to file, and interest runs on anything unpaid. An organization that filed on time marks the original filed and the line goes.",
+      "providerFiles": false,
+      "handledBy": "cpa",
+      "owner": false,
+      "extensionOf": "us.fed.990t",
+      "lastRead": "2026-10-30",
+      "url": "https://obligare.com/obligations/form-990-t-extended-due-date"
+    },
+    {
+      "id": "us.fed.1120.ext",
+      "name": "Form 1120, extended due date (if Form 7004 was filed)",
+      "jurisdiction": {
+        "country": "US",
+        "level": "federal"
+      },
+      "agency": "IRS",
+      "form": "Form 1120",
+      "schedule": {
+        "kind": "fiscal",
+        "monthsAfterFYE": 10,
+        "day": 15
+      },
+      "roll": "irs",
+      "applies": {
+        "taxTreatments": [
+          "c-corp"
+        ]
+      },
+      "severity": "high",
+      "action": "File Form 1120 by this date if Form 7004 was filed by the original one. The extension is automatic and gives six months to file, not to pay: the tax was due with the original date, and interest and the late payment penalty run from it.",
+      "fee": null,
+      "penalty": "5% of the unpaid tax for each month late, up to 25%, plus interest",
+      "source": "https://www.irs.gov/forms-pubs/about-form-7004",
+      "explanation": "Form 7004 gives a C corporation an automatic six month extension to file Form 1120: October 15 for a calendar year, the 15th day of the tenth month after the fiscal year otherwise. The tax itself was due on the original date, so a corporation that extends pays its estimate of the tax with Form 7004 or owes interest and the late payment penalty from then. The line is here for a corporation that extended; one that filed on time marks the original filed and it goes.",
+      "providerFiles": false,
+      "handledBy": "cpa",
+      "owner": false,
+      "extensionOf": "us.fed.1120",
+      "lastRead": "2026-10-30",
+      "url": "https://obligare.com/obligations/form-1120-extended-due-date"
+    },
+    {
+      "id": "us.fed.1120s.ext",
+      "name": "Form 1120-S, extended due date (if Form 7004 was filed)",
+      "jurisdiction": {
+        "country": "US",
+        "level": "federal"
+      },
+      "agency": "IRS",
+      "form": "Form 1120-S",
+      "schedule": {
+        "kind": "fiscal",
+        "monthsAfterFYE": 9,
+        "day": 15
+      },
+      "roll": "irs",
+      "applies": {
+        "taxTreatments": [
+          "s-corp"
+        ]
+      },
+      "severity": "high",
+      "action": "File Form 1120-S and give each shareholder a Schedule K-1 by this date if Form 7004 was filed by the original one.",
+      "fee": null,
+      "penalty": "$255 per shareholder for each month late, up to 12 months (the 2026 figure, adjusted yearly)",
+      "source": "https://www.irs.gov/forms-pubs/about-form-7004",
+      "explanation": "Form 7004 extends Form 1120-S six months, to September 15 for a calendar year. The K-1s go to the shareholders with the return, so the shareholders' own returns are usually extended too. For a corporation that extended, the per shareholder late filing penalty starts the day after this date. One that filed on time marks the original filed and the line goes.",
+      "providerFiles": false,
+      "handledBy": "cpa",
+      "owner": false,
+      "extensionOf": "us.fed.1120s",
+      "lastRead": "2026-10-30",
+      "url": "https://obligare.com/obligations/form-1120-s-extended-due-date"
+    },
+    {
+      "id": "us.fed.1065.ext",
+      "name": "Form 1065, extended due date (if Form 7004 was filed)",
+      "jurisdiction": {
+        "country": "US",
+        "level": "federal"
+      },
+      "agency": "IRS",
+      "form": "Form 1065",
+      "schedule": {
+        "kind": "fiscal",
+        "monthsAfterFYE": 9,
+        "day": 15
+      },
+      "roll": "irs",
+      "applies": {
+        "taxTreatments": [
+          "partnership"
+        ]
+      },
+      "severity": "high",
+      "action": "File Form 1065 and give each partner or member a Schedule K-1 by this date if Form 7004 was filed by the original one.",
+      "fee": null,
+      "penalty": "$255 per partner for each month late, up to 12 months (the 2026 figure, adjusted yearly)",
+      "source": "https://www.irs.gov/forms-pubs/about-form-7004",
+      "explanation": "Form 7004 extends Form 1065 six months, to September 15 for a calendar year. The partners' K-1s go out with the return, so the partners' own returns usually wait on it. For a partnership that extended, the per partner penalty starts the day after this date. One that filed on time marks the original filed and the line goes.",
+      "providerFiles": false,
+      "handledBy": "cpa",
+      "owner": false,
+      "extensionOf": "us.fed.1065",
+      "lastRead": "2026-10-30",
+      "url": "https://obligare.com/obligations/form-1065-extended-due-date"
+    },
+    {
+      "id": "us.fed.schc.ext",
+      "name": "Owner's personal return, extended due date (if Form 4868 was filed)",
+      "jurisdiction": {
+        "country": "US",
+        "level": "federal"
+      },
+      "agency": "IRS",
+      "form": "Form 1040, Schedule C and Schedule SE",
+      "schedule": {
+        "kind": "fixed",
+        "month": 10,
+        "day": 15
+      },
+      "roll": "irs",
+      "applies": {
+        "taxTreatments": [
+          "disregarded"
+        ],
+        "foreignOwner": false
+      },
+      "severity": "high",
+      "action": "File the owner's Form 1040 with Schedule C and Schedule SE by this date if Form 4868 was filed by the original date. Six more months to file, not to pay: tax owed with the return was due with the original date.",
+      "fee": null,
+      "penalty": "5% of the unpaid tax for each month late, up to 25%, plus interest",
+      "source": "https://www.irs.gov/forms-pubs/about-form-4868",
+      "explanation": "Form 4868 gives the owner six more months to file the personal return, to October 15. The tax was due April 15, so an owner who expects to owe pays an estimate with the extension request or owes interest and the late payment penalty from April. The line is the owners', like the return it extends, and goes once the original date is marked filed.",
+      "providerFiles": false,
+      "handledBy": "owners",
+      "owner": true,
+      "extensionOf": "us.fed.schc",
+      "lastRead": "2026-10-30",
+      "url": "https://obligare.com/obligations/owners-personal-return-extended-due-date"
+    },
+    {
+      "id": "us.fed.5500.ext",
+      "name": "Form 5500, extended due date (if Form 5558 was filed)",
+      "jurisdiction": {
+        "country": "US",
+        "level": "federal"
+      },
+      "agency": "Department of Labor and IRS",
+      "form": "Form 5500 or 5500-SF",
+      "schedule": {
+        "kind": "fiscal",
+        "monthsAfterFYE": 10,
+        "day": 15
+      },
+      "roll": "irs",
+      "applies": {
+        "retirementPlan": true
+      },
+      "severity": "high",
+      "action": "File Form 5500 (or 5500-SF) by this date if Form 5558 was filed by the original one. The extension runs two and a half months; a plan whose year matches the sponsor's tax year may instead file by the sponsor's extended return date.",
+      "fee": null,
+      "penalty": "Up to $2,739 a day from the Department of Labor, plus IRS penalties",
+      "source": "https://www.irs.gov/forms-pubs/about-form-5558",
+      "explanation": "Form 5558, filed by the plan's original due date, extends Form 5500 by two and a half months: October 15 for a calendar year plan. A plan whose year is the sponsor's tax year may instead use the sponsor's extended return date when that return was extended, with a copy of the sponsor's extension kept in the plan's records. The plan's provider usually prepares the return; the line is here for a plan that extended, and it goes once the original is marked filed.",
+      "providerFiles": false,
+      "handledBy": "plan",
+      "owner": false,
+      "extensionOf": "us.fed.5500",
+      "lastRead": "2026-10-30",
+      "url": "https://obligare.com/obligations/form-5500-extended-due-date"
     },
     {
       "id": "us.al.corp.report",
@@ -1456,6 +1813,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alabama-business-privilege-tax-return-corporation"
     },
@@ -1490,6 +1848,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alabama-business-privilege-tax-return-llc"
     },
@@ -1524,6 +1883,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alabama-business-privilege-tax-return-partnership"
     },
@@ -1561,6 +1921,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alabama-charitable-organization-registration-renewal"
     },
@@ -1595,6 +1956,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alabama-corporate-income-tax-return"
     },
@@ -1634,6 +1996,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alabama-corporate-estimated-tax-payment"
     },
@@ -1669,6 +2032,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alabama-pass-through-entity-return"
     },
@@ -1704,6 +2068,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alabama-personal-income-tax-return-with-business-income"
     },
@@ -1736,6 +2101,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alabama-unemployment-insurance-wage-report"
     },
@@ -1768,6 +2134,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alabama-annual-withholding-reconciliation"
     },
@@ -1799,6 +2166,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/alabama-sales-tax-return"
     },
@@ -1835,6 +2203,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alaska-biennial-report-corporation"
     },
@@ -1871,6 +2240,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alaska-biennial-report-llc"
     },
@@ -1907,6 +2277,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alaska-biennial-report-partnership"
     },
@@ -1943,6 +2314,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alaska-nonprofit-biennial-report"
     },
@@ -1980,6 +2352,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alaska-charitable-organization-registration-renewal"
     },
@@ -2011,6 +2384,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alaska-business-license-renewal"
     },
@@ -2045,6 +2419,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alaska-corporate-income-tax-return"
     },
@@ -2084,6 +2459,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alaska-corporate-estimated-tax-payment"
     },
@@ -2116,6 +2492,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/alaska-unemployment-insurance-wage-report"
     },
@@ -2145,6 +2522,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/alaska-sales-tax-no-state-sales-tax"
     },
@@ -2178,6 +2556,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arizona-annual-report-corporation"
     },
@@ -2211,6 +2590,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arizona-nonprofit-annual-report"
     },
@@ -2246,6 +2626,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arizona-charitable-solicitation-registration-not-required"
     },
@@ -2280,6 +2661,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arizona-corporate-income-tax-return"
     },
@@ -2319,6 +2701,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arizona-corporate-estimated-tax-payment"
     },
@@ -2354,6 +2737,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arizona-pass-through-entity-return"
     },
@@ -2389,6 +2773,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arizona-personal-income-tax-return-with-business-income"
     },
@@ -2421,6 +2806,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arizona-unemployment-insurance-wage-report"
     },
@@ -2453,6 +2839,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arizona-annual-withholding-reconciliation"
     },
@@ -2484,6 +2871,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/arizona-sales-tax-return"
     },
@@ -2518,6 +2906,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arkansas-annual-franchise-tax-report-corporation"
     },
@@ -2552,6 +2941,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arkansas-annual-franchise-tax-report-llc"
     },
@@ -2586,6 +2976,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arkansas-annual-franchise-tax-report-partnership"
     },
@@ -2620,6 +3011,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arkansas-nonprofit-annual-report"
     },
@@ -2657,6 +3049,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arkansas-charitable-organization-annual-report"
     },
@@ -2691,6 +3084,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arkansas-corporate-income-tax-return"
     },
@@ -2730,6 +3124,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arkansas-corporate-estimated-tax-payment"
     },
@@ -2765,6 +3160,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arkansas-pass-through-entity-return"
     },
@@ -2800,6 +3196,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arkansas-personal-income-tax-return-with-business-income"
     },
@@ -2832,6 +3229,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arkansas-unemployment-insurance-wage-report"
     },
@@ -2864,6 +3262,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/arkansas-annual-withholding-reconciliation"
     },
@@ -2895,6 +3294,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/arkansas-sales-tax-return"
     },
@@ -2928,6 +3328,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-statement-of-information-corporation"
     },
@@ -2962,6 +3363,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-statement-of-information-llc"
     },
@@ -2996,6 +3398,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-statement-of-information-partnership"
     },
@@ -3030,6 +3433,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-nonprofit-statement-of-information"
     },
@@ -3067,6 +3471,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-charity-registration-renewal"
     },
@@ -3105,6 +3510,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-annual-llc-tax"
     },
@@ -3144,6 +3550,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-llc-fee-estimate-california-income-over-250-000"
     },
@@ -3181,6 +3588,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-llc-return"
     },
@@ -3218,6 +3626,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-single-member-llc-return"
     },
@@ -3257,6 +3666,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-s-corporation-estimated-tax-and-minimum-franchise-tax"
     },
@@ -3294,6 +3704,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-exempt-organization-annual-return"
     },
@@ -3328,6 +3739,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-corporate-income-tax-return"
     },
@@ -3367,6 +3779,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-corporate-estimated-tax-payment"
     },
@@ -3402,6 +3815,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-pass-through-entity-return"
     },
@@ -3437,6 +3851,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-personal-income-tax-return-with-business-income"
     },
@@ -3469,6 +3884,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-unemployment-insurance-wage-report"
     },
@@ -3501,6 +3917,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-fourth-quarter-wage-reports-closing-the-year"
     },
@@ -3531,6 +3948,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-disability-insurance-and-paid-family-leave-withholding"
     },
@@ -3563,6 +3981,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-harassment-prevention-training-5-or-more-employees"
     },
@@ -3594,6 +4013,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/california-retirement-savings-mandate-calsavers"
     },
@@ -3625,6 +4045,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/california-sales-tax-return"
     },
@@ -3658,6 +4079,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/colorado-periodic-report-corporation"
     },
@@ -3691,6 +4113,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/colorado-periodic-report-llc"
     },
@@ -3724,6 +4147,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/colorado-periodic-report-partnership"
     },
@@ -3757,6 +4181,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/colorado-nonprofit-periodic-report"
     },
@@ -3794,6 +4219,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/colorado-charitable-organization-registration-renewal"
     },
@@ -3828,6 +4254,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/colorado-corporate-income-tax-return"
     },
@@ -3867,6 +4294,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/colorado-corporate-estimated-tax-payment"
     },
@@ -3902,6 +4330,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/colorado-pass-through-entity-return"
     },
@@ -3937,6 +4366,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/colorado-personal-income-tax-return-with-business-income"
     },
@@ -3969,6 +4399,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/colorado-unemployment-insurance-wage-report"
     },
@@ -4001,6 +4432,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/colorado-annual-withholding-reconciliation"
     },
@@ -4033,6 +4465,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/colorado-famli-premium-report"
     },
@@ -4064,6 +4497,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/colorado-retirement-savings-mandate-colorado-securesavings-5-or-more-employees"
     },
@@ -4095,6 +4529,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/colorado-sales-tax-return"
     },
@@ -4128,6 +4563,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-annual-report-corporation"
     },
@@ -4162,6 +4598,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-annual-report-llc"
     },
@@ -4196,6 +4633,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-annual-report-partnership"
     },
@@ -4229,6 +4667,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-nonprofit-annual-report"
     },
@@ -4266,6 +4705,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-charitable-organization-registration-renewal"
     },
@@ -4300,6 +4740,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-corporate-income-tax-return"
     },
@@ -4339,6 +4780,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-corporate-estimated-tax-payment"
     },
@@ -4374,6 +4816,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-pass-through-entity-return"
     },
@@ -4409,6 +4852,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-personal-income-tax-return-with-business-income"
     },
@@ -4441,6 +4885,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-unemployment-insurance-wage-report"
     },
@@ -4473,6 +4918,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-annual-withholding-reconciliation"
     },
@@ -4505,6 +4951,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-paid-leave-contributions"
     },
@@ -4537,6 +4984,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-harassment-prevention-training-3-or-more-employees"
     },
@@ -4568,6 +5016,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/connecticut-retirement-savings-mandate-myctsavings-5-or-more-employees"
     },
@@ -4599,6 +5048,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/connecticut-sales-tax-return"
     },
@@ -4633,6 +5083,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-annual-report-and-franchise-tax-corporation"
     },
@@ -4667,6 +5118,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-foreign-corporation-annual-report"
     },
@@ -4701,6 +5153,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-annual-llc-tax"
     },
@@ -4735,6 +5188,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-annual-partnership-tax"
     },
@@ -4769,6 +5223,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-nonprofit-annual-report"
     },
@@ -4804,6 +5259,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-charitable-solicitation-registration-not-required"
     },
@@ -4836,6 +5292,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-business-license-renewal"
     },
@@ -4868,6 +5325,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-gross-receipts-tax-return"
     },
@@ -4915,6 +5373,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-franchise-tax-installment-if-last-years-tax-was-5-000-or-more-corporation"
     },
@@ -4949,6 +5408,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-corporate-income-tax-return"
     },
@@ -4988,6 +5448,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-corporate-estimated-tax-payment"
     },
@@ -5023,6 +5484,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-pass-through-entity-return"
     },
@@ -5058,6 +5520,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-personal-income-tax-return-with-business-income"
     },
@@ -5090,6 +5553,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-unemployment-insurance-wage-report"
     },
@@ -5122,6 +5586,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-annual-withholding-reconciliation"
     },
@@ -5154,6 +5619,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-paid-leave-contributions"
     },
@@ -5186,6 +5652,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-harassment-prevention-training-50-or-more-employees"
     },
@@ -5217,6 +5684,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/delaware-retirement-savings-mandate-delaware-earns-5-or-more-employees"
     },
@@ -5246,6 +5714,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/delaware-sales-tax-no-state-sales-tax"
     },
@@ -5282,6 +5751,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/district-of-columbia-biennial-report-corporation"
     },
@@ -5318,6 +5788,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/district-of-columbia-biennial-report-llc"
     },
@@ -5354,6 +5825,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/district-of-columbia-biennial-report-partnership"
     },
@@ -5390,6 +5862,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/district-of-columbia-nonprofit-biennial-report"
     },
@@ -5427,6 +5900,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/dc-charitable-solicitation-license-renewal"
     },
@@ -5462,6 +5936,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/dc-corporation-franchise-tax-return"
     },
@@ -5497,6 +5972,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/dc-unincorporated-business-franchise-tax-return"
     },
@@ -5526,6 +6002,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/dc-basic-business-license-renewal"
     },
@@ -5557,6 +6034,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/dc-personal-property-tax-return"
     },
@@ -5596,6 +6074,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/district-of-columbia-corporate-estimated-tax-payment"
     },
@@ -5631,6 +6110,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/district-of-columbia-personal-income-tax-return-with-business-income"
     },
@@ -5663,6 +6143,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/district-of-columbia-unemployment-insurance-wage-report"
     },
@@ -5695,6 +6176,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/district-of-columbia-annual-withholding-reconciliation"
     },
@@ -5727,6 +6209,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/dc-paid-family-leave-contributions"
     },
@@ -5758,6 +6241,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/district-of-columbia-sales-tax-return"
     },
@@ -5792,6 +6276,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/florida-annual-report-corporation"
     },
@@ -5826,6 +6311,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/florida-annual-report-llc"
     },
@@ -5860,6 +6346,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/florida-annual-report-partnership"
     },
@@ -5894,6 +6381,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/florida-nonprofit-annual-report"
     },
@@ -5931,6 +6419,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/florida-solicitation-of-contributions-registration-renewal"
     },
@@ -5965,6 +6454,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/florida-corporate-income-tax-return"
     },
@@ -6004,6 +6494,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/florida-corporate-estimated-tax-payment"
     },
@@ -6036,6 +6527,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/florida-unemployment-insurance-wage-report"
     },
@@ -6067,6 +6559,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/florida-sales-tax-return"
     },
@@ -6101,6 +6594,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/georgia-annual-registration-corporation"
     },
@@ -6135,6 +6629,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/georgia-annual-registration-llc"
     },
@@ -6169,6 +6664,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/georgia-annual-registration-partnership"
     },
@@ -6203,6 +6699,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/georgia-nonprofit-annual-registration"
     },
@@ -6241,6 +6738,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/georgia-charitable-organization-registration-renewal"
     },
@@ -6275,6 +6773,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/georgia-corporate-income-tax-return"
     },
@@ -6314,6 +6813,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/georgia-corporate-estimated-tax-payment"
     },
@@ -6349,6 +6849,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/georgia-pass-through-entity-return"
     },
@@ -6384,6 +6885,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/georgia-personal-income-tax-return-with-business-income"
     },
@@ -6416,6 +6918,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/georgia-unemployment-insurance-wage-report"
     },
@@ -6448,6 +6951,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/georgia-annual-withholding-reconciliation"
     },
@@ -6479,6 +6983,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/georgia-sales-tax-return"
     },
@@ -6512,6 +7017,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/hawaii-annual-report-corporation"
     },
@@ -6545,6 +7051,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/hawaii-annual-report-llc"
     },
@@ -6578,6 +7085,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/hawaii-annual-report-partnership"
     },
@@ -6611,6 +7119,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/hawaii-nonprofit-annual-report"
     },
@@ -6648,6 +7157,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/hawaii-charitable-organization-annual-financial-report"
     },
@@ -6679,6 +7189,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/hawaii-general-excise-tax-annual-return"
     },
@@ -6713,6 +7224,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/hawaii-corporate-income-tax-return"
     },
@@ -6752,6 +7264,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/hawaii-corporate-estimated-tax-payment"
     },
@@ -6787,6 +7300,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/hawaii-pass-through-entity-return"
     },
@@ -6822,6 +7336,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/hawaii-personal-income-tax-return-with-business-income"
     },
@@ -6854,6 +7369,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/hawaii-unemployment-insurance-wage-report"
     },
@@ -6886,6 +7402,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/hawaii-annual-withholding-reconciliation"
     },
@@ -6916,6 +7433,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/hawaii-temporary-disability-insurance"
     },
@@ -6947,6 +7465,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/hawaii-sales-tax-return"
     },
@@ -6980,6 +7499,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/idaho-annual-report-corporation"
     },
@@ -7013,6 +7533,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/idaho-annual-report-llc"
     },
@@ -7046,6 +7567,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/idaho-annual-report-partnership"
     },
@@ -7079,6 +7601,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/idaho-nonprofit-annual-report"
     },
@@ -7114,6 +7637,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/idaho-charitable-solicitation-registration-not-required"
     },
@@ -7148,6 +7672,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/idaho-corporate-income-tax-return"
     },
@@ -7187,6 +7712,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/idaho-corporate-estimated-tax-payment"
     },
@@ -7222,6 +7748,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/idaho-pass-through-entity-return"
     },
@@ -7257,6 +7784,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/idaho-personal-income-tax-return-with-business-income"
     },
@@ -7289,6 +7817,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/idaho-unemployment-insurance-wage-report"
     },
@@ -7321,6 +7850,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/idaho-annual-withholding-reconciliation"
     },
@@ -7352,6 +7882,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/idaho-sales-tax-return"
     },
@@ -7385,6 +7916,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-annual-report-and-franchise-tax-corporation"
     },
@@ -7418,6 +7950,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-annual-report-llc"
     },
@@ -7451,6 +7984,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-annual-report-partnership"
     },
@@ -7484,6 +8018,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-nonprofit-annual-report"
     },
@@ -7521,6 +8056,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-charitable-organization-annual-report"
     },
@@ -7555,6 +8091,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-corporate-income-tax-return"
     },
@@ -7594,6 +8131,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-corporate-estimated-tax-payment"
     },
@@ -7628,6 +8166,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-s-corporation-return"
     },
@@ -7662,6 +8201,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-partnership-return"
     },
@@ -7697,6 +8237,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-personal-income-tax-return-with-business-income"
     },
@@ -7729,6 +8270,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-unemployment-insurance-wage-report"
     },
@@ -7761,6 +8303,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-w-2-filing-with-the-department-of-revenue"
     },
@@ -7793,6 +8336,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-harassment-prevention-training"
     },
@@ -7824,6 +8368,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/illinois-retirement-savings-mandate-illinois-secure-choice-5-or-more-employees"
     },
@@ -7855,6 +8400,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/illinois-sales-tax-return"
     },
@@ -7889,6 +8435,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/indiana-business-entity-report-corporation"
     },
@@ -7923,6 +8470,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/indiana-business-entity-report-llc"
     },
@@ -7957,6 +8505,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/indiana-business-entity-report-partnership"
     },
@@ -7991,6 +8540,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/indiana-nonprofit-business-entity-report"
     },
@@ -8026,6 +8576,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/indiana-charitable-solicitation-registration-not-required"
     },
@@ -8060,6 +8611,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/indiana-corporate-income-tax-return"
     },
@@ -8099,6 +8651,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/indiana-corporate-estimated-tax-payment"
     },
@@ -8134,6 +8687,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/indiana-pass-through-entity-return"
     },
@@ -8169,6 +8723,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/indiana-personal-income-tax-return-with-business-income"
     },
@@ -8201,6 +8756,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/indiana-unemployment-insurance-wage-report"
     },
@@ -8233,6 +8789,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/indiana-annual-withholding-reconciliation"
     },
@@ -8263,6 +8820,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/indiana-sales-tax-return"
     },
@@ -8299,6 +8857,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/iowa-biennial-report-corporation"
     },
@@ -8335,6 +8894,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/iowa-biennial-report-llc"
     },
@@ -8371,6 +8931,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/iowa-biennial-report-partnership"
     },
@@ -8407,6 +8968,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/iowa-nonprofit-biennial-report"
     },
@@ -8442,6 +9004,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/iowa-charitable-solicitation-registration-not-required"
     },
@@ -8476,6 +9039,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/iowa-corporate-income-tax-return"
     },
@@ -8515,6 +9079,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/iowa-corporate-estimated-tax-payment"
     },
@@ -8550,6 +9115,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/iowa-pass-through-entity-return"
     },
@@ -8585,6 +9151,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/iowa-personal-income-tax-return-with-business-income"
     },
@@ -8617,6 +9184,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/iowa-unemployment-insurance-wage-report"
     },
@@ -8649,6 +9217,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/iowa-annual-withholding-reconciliation"
     },
@@ -8679,6 +9248,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/iowa-sales-tax-return"
     },
@@ -8713,6 +9283,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kansas-annual-report-corporation"
     },
@@ -8747,6 +9318,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kansas-annual-report-llc"
     },
@@ -8781,6 +9353,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kansas-annual-report-partnership"
     },
@@ -8817,6 +9390,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kansas-nonprofit-biennial-report"
     },
@@ -8854,6 +9428,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kansas-charitable-organization-registration-renewal"
     },
@@ -8888,6 +9463,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kansas-corporate-income-tax-return"
     },
@@ -8927,6 +9503,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kansas-corporate-estimated-tax-payment"
     },
@@ -8962,6 +9539,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kansas-pass-through-entity-return"
     },
@@ -8997,6 +9575,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kansas-personal-income-tax-return-with-business-income"
     },
@@ -9029,6 +9608,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kansas-unemployment-insurance-wage-report"
     },
@@ -9061,6 +9641,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kansas-annual-withholding-reconciliation"
     },
@@ -9092,6 +9673,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/kansas-sales-tax-return"
     },
@@ -9126,6 +9708,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kentucky-annual-report-corporation"
     },
@@ -9160,6 +9743,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kentucky-annual-report-llc"
     },
@@ -9194,6 +9778,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kentucky-annual-report-partnership"
     },
@@ -9228,6 +9813,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kentucky-nonprofit-annual-report"
     },
@@ -9265,6 +9851,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kentucky-charitable-organization-annual-filing"
     },
@@ -9299,6 +9886,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kentucky-corporate-income-tax-return"
     },
@@ -9338,6 +9926,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kentucky-corporate-estimated-tax-payment"
     },
@@ -9373,6 +9962,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kentucky-pass-through-entity-return"
     },
@@ -9408,6 +9998,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kentucky-personal-income-tax-return-with-business-income"
     },
@@ -9440,6 +10031,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kentucky-unemployment-insurance-wage-report"
     },
@@ -9472,6 +10064,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/kentucky-annual-withholding-reconciliation"
     },
@@ -9503,6 +10096,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/kentucky-sales-tax-return"
     },
@@ -9536,6 +10130,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/louisiana-annual-report-corporation"
     },
@@ -9569,6 +10164,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/louisiana-annual-report-llc"
     },
@@ -9602,6 +10198,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/louisiana-annual-report-partnership"
     },
@@ -9635,6 +10232,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/louisiana-nonprofit-annual-report"
     },
@@ -9670,6 +10268,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/louisiana-charitable-organization-registration-only-with-a-paid-solicitor"
     },
@@ -9704,6 +10303,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/louisiana-corporate-income-tax-return"
     },
@@ -9743,6 +10343,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/louisiana-corporate-estimated-tax-payment"
     },
@@ -9778,6 +10379,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/louisiana-pass-through-entity-return"
     },
@@ -9813,6 +10415,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/louisiana-personal-income-tax-return-with-business-income"
     },
@@ -9845,6 +10448,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/louisiana-unemployment-insurance-wage-report"
     },
@@ -9877,6 +10481,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/louisiana-annual-withholding-reconciliation"
     },
@@ -9908,6 +10513,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/louisiana-sales-tax-return"
     },
@@ -9942,6 +10548,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-annual-report-corporation"
     },
@@ -9976,6 +10583,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-annual-report-llc"
     },
@@ -10010,6 +10618,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-annual-report-partnership"
     },
@@ -10044,6 +10653,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-nonprofit-annual-report"
     },
@@ -10081,6 +10691,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-charitable-organization-license-renewal"
     },
@@ -10115,6 +10726,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-corporate-income-tax-return"
     },
@@ -10154,6 +10766,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-corporate-estimated-tax-payment"
     },
@@ -10189,6 +10802,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-pass-through-entity-return"
     },
@@ -10224,6 +10838,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-personal-income-tax-return-with-business-income"
     },
@@ -10256,6 +10871,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-unemployment-insurance-wage-report"
     },
@@ -10288,6 +10904,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-annual-withholding-reconciliation"
     },
@@ -10320,6 +10937,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-paid-family-and-medical-leave-contributions"
     },
@@ -10352,6 +10970,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-harassment-prevention-training-15-or-more-employees"
     },
@@ -10383,6 +11002,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maine-retirement-savings-mandate-maine-retirement-investment-trust-merit-5-or-more-employees"
     },
@@ -10414,6 +11034,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/maine-sales-tax-return"
     },
@@ -10448,6 +11069,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maryland-annual-report-and-personal-property-return-corporation"
     },
@@ -10482,6 +11104,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maryland-annual-report-and-personal-property-return-llc"
     },
@@ -10516,6 +11139,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maryland-annual-report-and-personal-property-return-partnership"
     },
@@ -10550,6 +11174,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maryland-nonprofit-annual-report-and-personal-property-return"
     },
@@ -10587,6 +11212,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maryland-charitable-organization-registration-renewal"
     },
@@ -10621,6 +11247,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maryland-corporate-income-tax-return"
     },
@@ -10660,6 +11287,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maryland-corporate-estimated-tax-payment"
     },
@@ -10695,6 +11323,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maryland-pass-through-entity-return"
     },
@@ -10730,6 +11359,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maryland-personal-income-tax-return-with-business-income"
     },
@@ -10762,6 +11392,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maryland-unemployment-insurance-wage-report"
     },
@@ -10794,6 +11425,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maryland-annual-withholding-reconciliation"
     },
@@ -10826,6 +11458,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maryland-famli-contributions"
     },
@@ -10857,6 +11490,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/maryland-retirement-savings-mandate-marylandsaves"
     },
@@ -10888,6 +11522,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/maryland-sales-tax-return"
     },
@@ -10922,6 +11557,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/massachusetts-annual-report-corporation"
     },
@@ -10955,6 +11591,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/massachusetts-annual-report-llc"
     },
@@ -10988,6 +11625,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/massachusetts-annual-report-partnership"
     },
@@ -11022,6 +11660,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/massachusetts-nonprofit-annual-report"
     },
@@ -11059,6 +11698,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/massachusetts-public-charity-annual-filing"
     },
@@ -11091,6 +11731,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/massachusetts-health-insurance-responsibility-disclosure-6-or-more-employees"
     },
@@ -11125,6 +11766,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/massachusetts-corporate-income-tax-return"
     },
@@ -11164,6 +11806,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/massachusetts-corporate-estimated-tax-payment"
     },
@@ -11199,6 +11842,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/massachusetts-pass-through-entity-return"
     },
@@ -11234,6 +11878,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/massachusetts-personal-income-tax-return-with-business-income"
     },
@@ -11266,6 +11911,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/massachusetts-unemployment-insurance-wage-report"
     },
@@ -11298,6 +11944,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/massachusetts-annual-withholding-reconciliation"
     },
@@ -11330,6 +11977,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/massachusetts-paid-family-and-medical-leave-contributions"
     },
@@ -11361,6 +12009,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/massachusetts-sales-tax-return"
     },
@@ -11395,6 +12044,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/michigan-annual-report-corporation"
     },
@@ -11429,6 +12079,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/michigan-annual-statement-llc"
     },
@@ -11463,6 +12114,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/michigan-annual-statement-partnership"
     },
@@ -11497,6 +12149,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/michigan-nonprofit-annual-report"
     },
@@ -11534,6 +12187,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/michigan-charitable-solicitation-license-renewal"
     },
@@ -11568,6 +12222,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/michigan-corporate-income-tax-return"
     },
@@ -11607,6 +12262,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/michigan-corporate-estimated-tax-payment"
     },
@@ -11642,6 +12298,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/michigan-pass-through-entity-return"
     },
@@ -11677,6 +12334,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/michigan-personal-income-tax-return-with-business-income"
     },
@@ -11709,6 +12367,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/michigan-unemployment-insurance-wage-report"
     },
@@ -11741,6 +12400,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/michigan-annual-withholding-reconciliation"
     },
@@ -11772,6 +12432,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/michigan-sales-tax-return"
     },
@@ -11806,6 +12467,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/minnesota-annual-renewal-corporation"
     },
@@ -11840,6 +12502,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/minnesota-annual-renewal-llc"
     },
@@ -11874,6 +12537,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/minnesota-annual-renewal-partnership"
     },
@@ -11908,6 +12572,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/minnesota-nonprofit-annual-renewal"
     },
@@ -11945,6 +12610,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/minnesota-charitable-organization-annual-report"
     },
@@ -11979,6 +12645,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/minnesota-corporate-income-tax-return"
     },
@@ -12018,6 +12685,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/minnesota-corporate-estimated-tax-payment"
     },
@@ -12053,6 +12721,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/minnesota-pass-through-entity-return"
     },
@@ -12088,6 +12757,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/minnesota-personal-income-tax-return-with-business-income"
     },
@@ -12120,6 +12790,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/minnesota-unemployment-insurance-wage-report"
     },
@@ -12152,6 +12823,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/minnesota-annual-withholding-reconciliation"
     },
@@ -12184,6 +12856,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/minnesota-paid-leave-premiums"
     },
@@ -12215,6 +12888,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/minnesota-retirement-savings-mandate-minnesota-secure-choice-5-or-more-employees"
     },
@@ -12246,6 +12920,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/minnesota-sales-tax-return"
     },
@@ -12280,6 +12955,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/mississippi-annual-report-corporation"
     },
@@ -12314,6 +12990,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/mississippi-annual-report-llc"
     },
@@ -12348,6 +13025,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/mississippi-annual-report-llc-foreign"
     },
@@ -12380,6 +13058,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/mississippi-annual-report-not-required-for-partnerships"
     },
@@ -12414,6 +13093,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/mississippi-nonprofit-status-report"
     },
@@ -12451,6 +13131,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/mississippi-charitable-organization-registration-renewal"
     },
@@ -12485,6 +13166,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/mississippi-corporate-income-tax-return"
     },
@@ -12524,6 +13206,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/mississippi-corporate-estimated-tax-payment"
     },
@@ -12559,6 +13242,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/mississippi-pass-through-entity-return"
     },
@@ -12594,6 +13278,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/mississippi-personal-income-tax-return-with-business-income"
     },
@@ -12626,6 +13311,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/mississippi-unemployment-insurance-wage-report"
     },
@@ -12658,6 +13344,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/mississippi-annual-withholding-reconciliation"
     },
@@ -12689,6 +13376,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/mississippi-sales-tax-return"
     },
@@ -12722,6 +13410,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/missouri-annual-registration-report-corporation"
     },
@@ -12756,6 +13445,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/missouri-nonprofit-annual-registration-report"
     },
@@ -12796,6 +13486,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/missouri-charitable-organization-annual-report"
     },
@@ -12830,6 +13521,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/missouri-corporate-income-tax-return"
     },
@@ -12869,6 +13561,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/missouri-corporate-estimated-tax-payment"
     },
@@ -12904,6 +13597,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/missouri-pass-through-entity-return"
     },
@@ -12939,6 +13633,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/missouri-personal-income-tax-return-with-business-income"
     },
@@ -12971,6 +13666,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/missouri-unemployment-insurance-wage-report"
     },
@@ -13003,6 +13699,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/missouri-annual-withholding-reconciliation"
     },
@@ -13034,6 +13731,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/missouri-sales-tax-return"
     },
@@ -13068,6 +13766,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/montana-annual-report-corporation"
     },
@@ -13102,6 +13801,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/montana-annual-report-llc"
     },
@@ -13136,6 +13836,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/montana-annual-report-partnership"
     },
@@ -13170,6 +13871,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/montana-nonprofit-annual-report"
     },
@@ -13205,6 +13907,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/montana-charitable-solicitation-registration-not-required"
     },
@@ -13239,6 +13942,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/montana-corporate-income-tax-return"
     },
@@ -13278,6 +13982,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/montana-corporate-estimated-tax-payment"
     },
@@ -13313,6 +14018,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/montana-pass-through-entity-return"
     },
@@ -13348,6 +14054,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/montana-personal-income-tax-return-with-business-income"
     },
@@ -13380,6 +14087,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/montana-unemployment-insurance-wage-report"
     },
@@ -13412,6 +14120,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/montana-annual-withholding-reconciliation"
     },
@@ -13441,6 +14150,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/montana-sales-tax-no-state-sales-tax"
     },
@@ -13477,6 +14187,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nebraska-biennial-occupation-tax-report-corporation"
     },
@@ -13513,6 +14224,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nebraska-biennial-report-llc"
     },
@@ -13549,6 +14261,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nebraska-biennial-report-partnership"
     },
@@ -13585,6 +14298,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nebraska-nonprofit-biennial-report"
     },
@@ -13620,6 +14334,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nebraska-charitable-solicitation-registration-not-required"
     },
@@ -13654,6 +14369,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nebraska-corporate-income-tax-return"
     },
@@ -13693,6 +14409,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nebraska-corporate-estimated-tax-payment"
     },
@@ -13728,6 +14445,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nebraska-pass-through-entity-return"
     },
@@ -13763,6 +14481,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nebraska-personal-income-tax-return-with-business-income"
     },
@@ -13795,6 +14514,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nebraska-unemployment-insurance-wage-report"
     },
@@ -13827,6 +14547,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nebraska-annual-withholding-reconciliation"
     },
@@ -13858,6 +14579,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/nebraska-sales-tax-return"
     },
@@ -13891,6 +14613,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nevada-annual-list-and-state-business-license-corporation"
     },
@@ -13924,6 +14647,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nevada-annual-list-and-state-business-license-llc"
     },
@@ -13957,6 +14681,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nevada-annual-list-and-state-business-license-partnership"
     },
@@ -13990,6 +14715,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nevada-nonprofit-annual-list-of-officers"
     },
@@ -14026,6 +14752,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nevada-charitable-solicitation-registration-statement"
     },
@@ -14058,6 +14785,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nevada-modified-business-tax-return"
     },
@@ -14090,6 +14818,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nevada-commerce-tax-return-nevada-revenue-over-4-million"
     },
@@ -14122,6 +14851,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nevada-unemployment-insurance-wage-report"
     },
@@ -14153,6 +14883,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/nevada-retirement-savings-mandate-nevada-employee-savings-trust-nest-6-or-more-employees"
     },
@@ -14184,6 +14915,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/nevada-sales-tax-return"
     },
@@ -14218,6 +14950,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-hampshire-annual-report-corporation"
     },
@@ -14252,6 +14985,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-hampshire-annual-report-llc"
     },
@@ -14286,6 +15020,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-hampshire-annual-report-partnership"
     },
@@ -14321,6 +15056,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-hampshire-nonprofit-nonprofit-return"
     },
@@ -14358,6 +15094,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-hampshire-charitable-trust-annual-report"
     },
@@ -14395,6 +15132,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-hampshire-business-profits-and-business-enterprise-tax-return-gross-receipts-over-about-109-000"
     },
@@ -14430,6 +15168,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-hampshire-business-profits-and-business-enterprise-tax-return-gross-receipts-over-about-109-000-bpt-bet-pt"
     },
@@ -14462,6 +15201,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-hampshire-unemployment-insurance-wage-report"
     },
@@ -14491,6 +15231,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/new-hampshire-sales-tax-no-state-sales-tax"
     },
@@ -14524,6 +15265,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-jersey-annual-report-corporation"
     },
@@ -14557,6 +15299,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-jersey-annual-report-llc"
     },
@@ -14590,6 +15333,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-jersey-annual-report-partnership"
     },
@@ -14623,6 +15367,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-jersey-nonprofit-annual-report"
     },
@@ -14660,6 +15405,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-jersey-charities-registration-renewal"
     },
@@ -14694,6 +15440,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-jersey-corporate-income-tax-return"
     },
@@ -14733,6 +15480,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-jersey-corporate-estimated-tax-payment"
     },
@@ -14768,6 +15516,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-jersey-pass-through-entity-return"
     },
@@ -14803,6 +15552,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-jersey-personal-income-tax-return-with-business-income"
     },
@@ -14835,6 +15585,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-jersey-unemployment-insurance-wage-report"
     },
@@ -14867,6 +15618,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-jersey-annual-withholding-reconciliation"
     },
@@ -14897,6 +15649,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-jersey-temporary-disability-and-family-leave-insurance-contributions"
     },
@@ -14928,6 +15681,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-jersey-retirement-savings-mandate-retireready-nj-25-or-more-employees"
     },
@@ -14959,6 +15713,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/new-jersey-sales-tax-return"
     },
@@ -14995,6 +15750,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-mexico-biennial-corporate-report-corporation"
     },
@@ -15029,6 +15785,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-mexico-nonprofit-annual-report"
     },
@@ -15066,6 +15823,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-mexico-charitable-organization-annual-report"
     },
@@ -15100,6 +15858,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-mexico-corporate-income-tax-return"
     },
@@ -15139,6 +15898,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-mexico-corporate-estimated-tax-payment"
     },
@@ -15174,6 +15934,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-mexico-pass-through-entity-return"
     },
@@ -15209,6 +15970,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-mexico-personal-income-tax-return-with-business-income"
     },
@@ -15241,6 +16003,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-mexico-unemployment-insurance-wage-report"
     },
@@ -15273,6 +16036,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-mexico-annual-withholding-reconciliation"
     },
@@ -15304,6 +16068,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/new-mexico-sales-tax-return"
     },
@@ -15338,6 +16103,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-biennial-statement-corporation"
     },
@@ -15372,6 +16138,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-biennial-statement-llc"
     },
@@ -15406,6 +16173,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-biennial-statement-partnership"
     },
@@ -15443,6 +16211,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-charities-annual-filing"
     },
@@ -15478,6 +16247,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-llc-annual-filing-fee"
     },
@@ -15513,6 +16283,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-llc-beneficial-ownership-disclosure-status-unsettled"
     },
@@ -15547,6 +16318,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-corporate-income-tax-return"
     },
@@ -15586,6 +16358,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-corporate-estimated-tax-payment"
     },
@@ -15621,6 +16394,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-pass-through-entity-return"
     },
@@ -15656,6 +16430,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-personal-income-tax-return-with-business-income"
     },
@@ -15688,6 +16463,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-unemployment-insurance-wage-report"
     },
@@ -15720,6 +16496,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-fourth-quarter-withholding-return-with-the-annual-wage-totals"
     },
@@ -15750,6 +16527,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-disability-and-paid-family-leave-insurance"
     },
@@ -15782,6 +16560,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-harassment-prevention-training"
     },
@@ -15813,6 +16592,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/new-york-retirement-savings-mandate-new-york-secure-choice-10-or-more-employees"
     },
@@ -15860,6 +16640,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/new-york-sales-tax-return"
     },
@@ -15894,6 +16675,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-carolina-annual-report-corporation"
     },
@@ -15928,6 +16710,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-carolina-annual-report-llc"
     },
@@ -15962,6 +16745,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-carolina-annual-report-partnership"
     },
@@ -15999,6 +16783,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-carolina-charitable-solicitation-license-renewal"
     },
@@ -16033,6 +16818,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-carolina-corporate-income-tax-return"
     },
@@ -16072,6 +16858,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-carolina-corporate-estimated-tax-payment"
     },
@@ -16107,6 +16894,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-carolina-pass-through-entity-return"
     },
@@ -16142,6 +16930,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-carolina-personal-income-tax-return-with-business-income"
     },
@@ -16174,6 +16963,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-carolina-unemployment-insurance-wage-report"
     },
@@ -16206,6 +16996,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-carolina-annual-withholding-reconciliation"
     },
@@ -16237,6 +17028,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/north-carolina-sales-tax-return"
     },
@@ -16271,6 +17063,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-dakota-annual-report-corporation"
     },
@@ -16305,6 +17098,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-dakota-annual-report-llc"
     },
@@ -16339,6 +17133,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-dakota-annual-report-partnership"
     },
@@ -16373,6 +17168,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-dakota-nonprofit-annual-report"
     },
@@ -16410,6 +17206,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-dakota-charitable-organization-registration-renewal"
     },
@@ -16444,6 +17241,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-dakota-corporate-income-tax-return"
     },
@@ -16483,6 +17281,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-dakota-corporate-estimated-tax-payment"
     },
@@ -16518,6 +17317,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-dakota-pass-through-entity-return"
     },
@@ -16553,6 +17353,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-dakota-personal-income-tax-return-with-business-income"
     },
@@ -16585,6 +17386,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-dakota-unemployment-insurance-wage-report"
     },
@@ -16617,6 +17419,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/north-dakota-annual-withholding-reconciliation"
     },
@@ -16648,6 +17451,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/north-dakota-sales-tax-return"
     },
@@ -16680,6 +17484,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/ohio-nonprofit-statement-of-continued-existence"
     },
@@ -16717,6 +17522,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/ohio-charitable-organization-annual-report"
     },
@@ -16749,6 +17555,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/ohio-commercial-activity-tax-return-ohio-receipts-over-6-million"
     },
@@ -16781,6 +17588,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/ohio-workers-compensation-payroll-true-up"
     },
@@ -16816,6 +17624,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/ohio-pass-through-entity-return"
     },
@@ -16851,6 +17660,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/ohio-personal-income-tax-return-with-business-income"
     },
@@ -16883,6 +17693,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/ohio-unemployment-insurance-wage-report"
     },
@@ -16915,6 +17726,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/ohio-annual-withholding-reconciliation"
     },
@@ -16945,6 +17757,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/ohio-sales-tax-return"
     },
@@ -16978,6 +17791,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oklahoma-annual-certificate-llc"
     },
@@ -17011,6 +17825,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oklahoma-annual-certificate-partnership"
     },
@@ -17048,6 +17863,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oklahoma-charitable-organization-registration-renewal"
     },
@@ -17082,6 +17898,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oklahoma-corporate-income-tax-return"
     },
@@ -17121,6 +17938,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oklahoma-corporate-estimated-tax-payment"
     },
@@ -17156,6 +17974,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oklahoma-pass-through-entity-return"
     },
@@ -17191,6 +18010,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oklahoma-personal-income-tax-return-with-business-income"
     },
@@ -17223,6 +18043,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oklahoma-unemployment-insurance-wage-report"
     },
@@ -17255,6 +18076,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oklahoma-annual-withholding-reconciliation"
     },
@@ -17285,6 +18107,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/oklahoma-sales-tax-return"
     },
@@ -17318,6 +18141,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-annual-report-corporation"
     },
@@ -17351,6 +18175,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-annual-report-llc"
     },
@@ -17384,6 +18209,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-annual-report-partnership"
     },
@@ -17417,6 +18243,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-nonprofit-annual-report"
     },
@@ -17454,6 +18281,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-charitable-organization-annual-report"
     },
@@ -17486,6 +18314,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-corporate-activity-tax-return-oregon-activity-over-1-million"
     },
@@ -17520,6 +18349,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-corporate-income-tax-return"
     },
@@ -17559,6 +18389,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-corporate-estimated-tax-payment"
     },
@@ -17594,6 +18425,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-pass-through-entity-return"
     },
@@ -17629,6 +18461,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-personal-income-tax-return-with-business-income"
     },
@@ -17661,6 +18494,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-unemployment-insurance-wage-report"
     },
@@ -17693,6 +18527,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-annual-withholding-reconciliation"
     },
@@ -17725,6 +18560,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-paid-leave-contributions"
     },
@@ -17756,6 +18592,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/oregon-retirement-savings-mandate-oregonsaves"
     },
@@ -17785,6 +18622,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/oregon-sales-tax-no-state-sales-tax"
     },
@@ -17819,6 +18657,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/pennsylvania-annual-report-corporation"
     },
@@ -17853,6 +18692,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/pennsylvania-annual-report-llc"
     },
@@ -17887,6 +18727,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/pennsylvania-annual-report-partnership"
     },
@@ -17921,6 +18762,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/pennsylvania-nonprofit-annual-report"
     },
@@ -17958,6 +18800,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/pennsylvania-charitable-organization-registration-renewal"
     },
@@ -17992,6 +18835,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/pennsylvania-corporate-income-tax-return"
     },
@@ -18031,6 +18875,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/pennsylvania-corporate-estimated-tax-payment"
     },
@@ -18066,6 +18911,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/pennsylvania-pass-through-entity-return"
     },
@@ -18101,6 +18947,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/pennsylvania-personal-income-tax-return-with-business-income"
     },
@@ -18133,6 +18980,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/pennsylvania-unemployment-insurance-wage-report"
     },
@@ -18165,6 +19013,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/pennsylvania-annual-withholding-reconciliation"
     },
@@ -18196,6 +19045,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/pennsylvania-sales-tax-return"
     },
@@ -18230,6 +19080,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/rhode-island-annual-report-corporation"
     },
@@ -18264,6 +19115,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/rhode-island-annual-report-llc"
     },
@@ -18298,6 +19150,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/rhode-island-annual-report-partnership"
     },
@@ -18332,6 +19185,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/rhode-island-nonprofit-annual-report"
     },
@@ -18369,6 +19223,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/rhode-island-charitable-organization-registration-renewal"
     },
@@ -18403,6 +19258,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/rhode-island-corporate-income-tax-return"
     },
@@ -18442,6 +19298,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/rhode-island-corporate-estimated-tax-payment"
     },
@@ -18477,6 +19334,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/rhode-island-pass-through-entity-return"
     },
@@ -18512,6 +19370,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/rhode-island-personal-income-tax-return-with-business-income"
     },
@@ -18544,6 +19403,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/rhode-island-unemployment-insurance-wage-report"
     },
@@ -18576,6 +19436,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/rhode-island-annual-withholding-reconciliation"
     },
@@ -18606,6 +19467,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/rhode-island-temporary-disability-and-caregiver-insurance-withholding"
     },
@@ -18637,6 +19499,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/rhode-island-sales-tax-return"
     },
@@ -18674,6 +19537,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/south-carolina-corporate-income-tax-return-with-the-annual-report-corporation"
     },
@@ -18711,6 +19575,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/south-carolina-charitable-organization-registration-renewal"
     },
@@ -18750,6 +19615,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/south-carolina-corporate-estimated-tax-payment"
     },
@@ -18785,6 +19651,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/south-carolina-pass-through-entity-return"
     },
@@ -18820,6 +19687,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/south-carolina-personal-income-tax-return-with-business-income"
     },
@@ -18852,6 +19720,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/south-carolina-unemployment-insurance-wage-report"
     },
@@ -18884,6 +19753,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/south-carolina-annual-withholding-reconciliation"
     },
@@ -18915,6 +19785,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/south-carolina-sales-tax-return"
     },
@@ -18948,6 +19819,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/south-dakota-annual-report-corporation"
     },
@@ -18981,6 +19853,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/south-dakota-annual-report-llc"
     },
@@ -19014,6 +19887,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/south-dakota-annual-report-partnership"
     },
@@ -19047,6 +19921,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/south-dakota-nonprofit-annual-report"
     },
@@ -19082,6 +19957,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/south-dakota-charitable-solicitation-registration-not-required"
     },
@@ -19114,6 +19990,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/south-dakota-unemployment-insurance-wage-report"
     },
@@ -19145,6 +20022,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/south-dakota-sales-tax-return"
     },
@@ -19179,6 +20057,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/tennessee-annual-report-corporation"
     },
@@ -19213,6 +20092,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/tennessee-annual-report-llc"
     },
@@ -19247,6 +20127,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/tennessee-annual-report-partnership"
     },
@@ -19281,6 +20162,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/tennessee-nonprofit-annual-report"
     },
@@ -19318,6 +20200,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/tennessee-charitable-solicitation-registration-renewal"
     },
@@ -19350,6 +20233,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/tennessee-business-tax-return-receipts-over-100-000-in-a-county-or-city"
     },
@@ -19386,6 +20270,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/tennessee-franchise-and-excise-tax-return"
     },
@@ -19418,6 +20303,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/tennessee-unemployment-insurance-wage-report"
     },
@@ -19449,6 +20335,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/tennessee-sales-tax-return"
     },
@@ -19483,6 +20370,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/texas-franchise-tax-report-and-public-information-report-corporation"
     },
@@ -19517,6 +20405,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/texas-franchise-tax-report-and-public-information-report-llc"
     },
@@ -19551,6 +20440,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/texas-franchise-tax-report-and-public-information-report-partnership"
     },
@@ -19583,6 +20473,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/texas-nonprofit-periodic-report"
     },
@@ -19618,6 +20509,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/texas-charitable-solicitation-registration-only-for-a-few-categories"
     },
@@ -19650,6 +20542,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/texas-unemployment-insurance-wage-report"
     },
@@ -19681,6 +20574,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/texas-sales-tax-return"
     },
@@ -19714,6 +20608,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/utah-annual-report-and-renewal-corporation"
     },
@@ -19747,6 +20642,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/utah-annual-report-and-renewal-llc"
     },
@@ -19780,6 +20676,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/utah-annual-report-and-renewal-partnership"
     },
@@ -19813,6 +20710,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/utah-nonprofit-annual-report-and-renewal"
     },
@@ -19848,6 +20746,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/utah-charitable-solicitation-registration-ended-in-2024"
     },
@@ -19882,6 +20781,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/utah-corporate-income-tax-return"
     },
@@ -19921,6 +20821,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/utah-corporate-estimated-tax-payment"
     },
@@ -19956,6 +20857,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/utah-pass-through-entity-return"
     },
@@ -19991,6 +20893,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/utah-personal-income-tax-return-with-business-income"
     },
@@ -20023,6 +20926,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/utah-unemployment-insurance-wage-report"
     },
@@ -20055,6 +20959,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/utah-annual-withholding-reconciliation"
     },
@@ -20086,6 +20991,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/utah-sales-tax-return"
     },
@@ -20120,6 +21026,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/vermont-annual-report-corporation"
     },
@@ -20154,6 +21061,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/vermont-annual-report-llc"
     },
@@ -20188,6 +21096,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/vermont-annual-report-partnership"
     },
@@ -20224,6 +21133,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/vermont-nonprofit-biennial-report"
     },
@@ -20259,6 +21169,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/vermont-charitable-solicitation-registration-not-required"
     },
@@ -20293,6 +21204,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/vermont-corporate-income-tax-return"
     },
@@ -20332,6 +21244,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/vermont-corporate-estimated-tax-payment"
     },
@@ -20367,6 +21280,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/vermont-pass-through-entity-return"
     },
@@ -20402,6 +21316,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/vermont-personal-income-tax-return-with-business-income"
     },
@@ -20434,6 +21349,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/vermont-unemployment-insurance-wage-report"
     },
@@ -20466,6 +21382,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/vermont-annual-withholding-reconciliation"
     },
@@ -20497,6 +21414,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/vermont-retirement-savings-mandate-vt-saves-5-or-more-employees"
     },
@@ -20528,6 +21446,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/vermont-sales-tax-return"
     },
@@ -20561,6 +21480,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/virginia-annual-report-and-registration-fee-corporation"
     },
@@ -20594,6 +21514,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/virginia-annual-registration-fee-llc"
     },
@@ -20627,6 +21548,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/virginia-annual-registration-fee-partnership"
     },
@@ -20660,6 +21582,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/virginia-nonprofit-annual-report-and-registration-fee"
     },
@@ -20697,6 +21620,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/virginia-charitable-organization-registration-renewal"
     },
@@ -20731,6 +21655,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/virginia-corporate-income-tax-return"
     },
@@ -20770,6 +21695,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/virginia-corporate-estimated-tax-payment"
     },
@@ -20805,6 +21731,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/virginia-pass-through-entity-return"
     },
@@ -20840,6 +21767,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/virginia-personal-income-tax-return-with-business-income"
     },
@@ -20872,6 +21800,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/virginia-unemployment-insurance-wage-report"
     },
@@ -20904,6 +21833,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/virginia-annual-withholding-reconciliation"
     },
@@ -20935,6 +21865,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/virginia-retirement-savings-mandate-retirepath-virginia-25-or-more-employees"
     },
@@ -20966,6 +21897,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/virginia-sales-tax-return"
     },
@@ -20999,6 +21931,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/washington-annual-report-corporation"
     },
@@ -21032,6 +21965,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/washington-annual-report-llc"
     },
@@ -21065,6 +21999,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/washington-annual-report-partnership"
     },
@@ -21098,6 +22033,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/washington-nonprofit-annual-report"
     },
@@ -21135,6 +22071,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/washington-charitable-organization-registration-renewal"
     },
@@ -21166,6 +22103,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/washington-business-and-occupation-tax-return"
     },
@@ -21198,6 +22136,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/washington-workers-compensation-premium-report"
     },
@@ -21230,6 +22169,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/washington-unemployment-insurance-wage-report"
     },
@@ -21262,6 +22202,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/washington-paid-leave-and-wa-cares-premium-report"
     },
@@ -21293,6 +22234,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/washington-sales-tax-return"
     },
@@ -21327,6 +22269,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/west-virginia-annual-report-corporation"
     },
@@ -21361,6 +22304,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/west-virginia-annual-report-llc"
     },
@@ -21395,6 +22339,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/west-virginia-annual-report-partnership"
     },
@@ -21429,6 +22374,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/west-virginia-nonprofit-annual-report"
     },
@@ -21466,6 +22412,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/west-virginia-charitable-organization-registration-renewal"
     },
@@ -21500,6 +22447,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/west-virginia-corporate-income-tax-return"
     },
@@ -21539,6 +22487,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/west-virginia-corporate-estimated-tax-payment"
     },
@@ -21574,6 +22523,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/west-virginia-pass-through-entity-return"
     },
@@ -21609,6 +22559,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/west-virginia-personal-income-tax-return-with-business-income"
     },
@@ -21641,6 +22592,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/west-virginia-unemployment-insurance-wage-report"
     },
@@ -21673,6 +22625,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/west-virginia-annual-withholding-reconciliation"
     },
@@ -21704,6 +22657,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/west-virginia-sales-tax-return"
     },
@@ -21737,6 +22691,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wisconsin-annual-report-corporation"
     },
@@ -21770,6 +22725,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wisconsin-annual-report-llc"
     },
@@ -21803,6 +22759,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wisconsin-annual-report-partnership"
     },
@@ -21836,6 +22793,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wisconsin-nonprofit-annual-report"
     },
@@ -21873,6 +22831,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wisconsin-charitable-organization-credential-renewal"
     },
@@ -21910,6 +22869,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wisconsin-charitable-organization-annual-financial-report"
     },
@@ -21944,6 +22904,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wisconsin-corporate-income-tax-return"
     },
@@ -21983,6 +22944,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wisconsin-corporate-estimated-tax-payment"
     },
@@ -22018,6 +22980,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wisconsin-pass-through-entity-return"
     },
@@ -22053,6 +23016,7 @@
       "providerFiles": false,
       "handledBy": "owners",
       "owner": true,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wisconsin-personal-income-tax-return-with-business-income"
     },
@@ -22085,6 +23049,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wisconsin-unemployment-insurance-wage-report"
     },
@@ -22117,6 +23082,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wisconsin-annual-withholding-reconciliation"
     },
@@ -22148,6 +23114,7 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/wisconsin-sales-tax-return"
     },
@@ -22181,6 +23148,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wyoming-annual-report-and-license-tax-corporation"
     },
@@ -22214,6 +23182,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wyoming-annual-report-and-license-tax-llc"
     },
@@ -22247,6 +23216,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wyoming-annual-report-and-license-tax-partnership"
     },
@@ -22280,6 +23250,7 @@
       "providerFiles": false,
       "handledBy": "agent",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wyoming-nonprofit-annual-report"
     },
@@ -22315,6 +23286,7 @@
       "providerFiles": false,
       "handledBy": "company",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wyoming-charitable-solicitation-registration-not-required"
     },
@@ -22347,6 +23319,7 @@
       "providerFiles": true,
       "handledBy": "payroll",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-22",
       "url": "https://obligare.com/obligations/wyoming-unemployment-insurance-wage-report"
     },
@@ -22378,11 +23351,34 @@
       "providerFiles": false,
       "handledBy": "cpa",
       "owner": false,
+      "extensionOf": null,
       "lastRead": "2026-10-28",
       "url": "https://obligare.com/obligations/wyoming-sales-tax-return"
     }
   ],
   "changes": [
+    {
+      "date": "2026-10-30",
+      "slug": "extended-due-dates-on-the-calendar",
+      "title": "Extended due dates on the calendar: the Form 990 family, Forms 1120, 1120-S and 1065, the owner's return and Form 5500",
+      "summary": "Every federal return that can be extended now has its extended due date on the calendar as its own line, marked \"if the extension was filed\": Form 990, 990-EZ, 990-PF and 990-T six months after the original date (Form 8868), Forms 1120, 1120-S and 1065 six months after theirs (Form 7004), the owner's personal return with Schedule C on October 15 (Form 4868), and Form 5500 two and a half months after its date (Form 5558). Each follows the organization's fiscal year and moves off a weekend or holiday as the IRS provides, so a calendar year nonprofit on extension sees Monday, November 16, 2026, and a calendar year S corporation sees September 15, 2027. Form 990-N cannot be extended and has no such line.\n\nThe line is for the organization that extended, which marks the original date as extended: the reminders for that date stop and the extended line stays, with its own. A subscriber that filed by the original date marks it filed, and the extended line leaves the calendar, the feed and the reminders. The extended line never leads a calendar, never gets the week after follow up, and is never listed as a date without a record, because the calendar cannot know whether the extension was filed. Where tax is owed with the return, the line says the extension gave time to file, not to pay.\n\nAlso in this release: a page that answers when Form 990 is due, for every fiscal year end, with the extended date and the form that applies.",
+      "obligationIds": [
+        "us.fed.990.ext",
+        "us.fed.990ez.ext",
+        "us.fed.990pf.ext",
+        "us.fed.990t.ext",
+        "us.fed.1120.ext",
+        "us.fed.1120s.ext",
+        "us.fed.1065.ext",
+        "us.fed.schc.ext",
+        "us.fed.5500.ext"
+      ],
+      "jurisdictions": [
+        "US"
+      ],
+      "source": "https://www.irs.gov/forms-pubs/about-form-8868",
+      "action": "If you filed for an extension, the extended date is on your calendar with its reminders; mark the original date as extended so its reminders stop. If you filed by the original date, mark it filed and the extended line goes."
+    },
     {
       "date": "2026-10-28",
       "slug": "cpa-review-sales-tax-agencies-owners-dates-and-weekend-rules",
